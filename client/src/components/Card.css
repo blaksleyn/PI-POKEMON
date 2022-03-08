@@ -1,0 +1,33 @@
+.card {
+    background-color:whitesmoke;
+    height: 250px;
+    border: 1px solid #f1f1f1;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+    border-color: black;
+    border-radius: 25px;
+    border-width: 3px;
+    
+  }
+  
+  .name1{
+      text-decoration: underline;
+      color: black;
+      font-size: 23px;
+  }
+  .name1:hover{
+      color:red;
+     font-size: 29px;
+  }
+
+  .name2{
+    text-decoration: underline;
+    color: black;
+    font-size: 17px;
+}
+.name2:hover{
+    color:red;
+   font-size: 25px;
+}

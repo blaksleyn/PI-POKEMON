@@ -1,0 +1,24 @@
+.paginado{
+    width: -100px;
+    display: inline-flex;
+    
+}
+.boton{
+    border: 1px solid #dedede;
+    border-radius: 10px;
+    color:black;
+    display: inline-block;
+    font: bold 12px/12px HelveticaNeue, Arial;
+    padding: 7px 9px;
+    text-decoration: none;    
+    background-color:royalblue;
+    border-color:black;
+    border-width: 2px ;
+    margin: 7px;
+}
+.boton:hover{
+    background-color: black;
+    border-color:royalblue;
+    color:royalblue;
+    padding: 10px 12px;
+}

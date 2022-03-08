@@ -1,0 +1,28 @@
+.input{
+    background:whitesmoke;
+    border: 1px solid #393939;
+    border-radius: 10px;
+    color: black;
+    font-size: 12px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-right: 5px;
+}
+.buttomm{
+    border: 1px solid #dedede;
+  border-radius: 10px;
+  color:whitesmoke;
+  display: inline-block;
+  font: bold 12px/12px HelveticaNeue, Arial;
+  padding: 7px 9px;
+  text-decoration: none;    
+  background-color: black;
+  border-color:whitesmoke;
+  border-width: 3px ;
+}
+.buttomm:hover{
+    background-color: whitesmoke;
+    color:black;
+    border-color: black;
+}
